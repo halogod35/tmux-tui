@@ -9,7 +9,7 @@ then
 		split-window -v -p 80 \; \
 		send-keys 'neofetch | lolcat -S 36' C-m \; \
 		split-window -v -p 55 \; \
-		send-keys 'go-top' C-m \; \
+		send-keys 'gotop' C-m \; \
 		select-pane -t 0 \; \
 		split-window -v -p 80 \; \
 		send-keys 'mc' C-m \; \

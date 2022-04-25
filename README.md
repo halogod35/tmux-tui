@@ -1,5 +1,5 @@
 # tmux-tui
-My personal TMUX TUI for barebone rigs. 
+This is intended for 16:10 resolution.
 
 # Dependecies
 * Pulsemixer

@@ -1,5 +1,5 @@
 # tmux-tui
-This is intended for 16:10 resolution.
+This is intended for 1680×1050 resolution.
 
 # Dependecies
 * Pulsemixer

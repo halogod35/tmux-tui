@@ -10,3 +10,4 @@ This is intended for 1680×1050 resolution.
 * Crawl
 * Cava
 * Cmus
+* Lolcat

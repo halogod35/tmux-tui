@@ -1,14 +1,14 @@
 # tmux-tui
 This is intended for 1680×1050 resolution.
 
-# Usage
+## Usage
 Download/clone to wherever
 
 `cd` to wherever
 
 `./test.sh`
 
-# Dependecies
+## Dependecies
 * Tmux
 * Pulsemixer
 * Figlet
